@@ -65,7 +65,14 @@
         "essentials/images",
         "essentials/settings",
         "essentials/navigation",
-        "essentials/reusable-snippets"
+        "essentials/reusable-snippets",
+        {
+        "group": "Subcategory Name",
+        "pages": [
+          "essentials/subcategory/page1",
+          "essentials/subcategory/page2"
+        ]
+      },
       ]
     },
     {
